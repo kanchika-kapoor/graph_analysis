@@ -1,2 +1,1 @@
-# graph_analysis
-CA1 for graph and ai course using neo4j and networkx
+CA1 for graph and ai course using neo4j, py2neo and networkx
